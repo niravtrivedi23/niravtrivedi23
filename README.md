@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 📊 Currently working on **Power BI Dashboards & Python Data Projects**
+- 📊 Currently working on **Power BI Dashboards & Python Data Analysis**
 - 🌱 I’m currently learning **Machine Learning & Advanced Data Analytics And Make Multiple AI Agent**  
 - 🎓 MSc in **Applied Statistics**
 - 💼 Aspiring **Data Analyst / BI Analyst**
